@@ -7,7 +7,6 @@ class HelloWorldTest extends TestCase
     public function test__construct()
     {
         $hw = new HelloWorld();
-        $this->assertInstanceOf('src\HelloWorld', $hw);
         $this->assertEquals(new HelloWorld(), $hw); // 比對Object
         $this->assertNotEquals(new HelloWorld('Hello'), $hw);
     }

@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ian/phpunit',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'da47919f739c8b4e18939ca71fc8622fea6ccd19',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => true,
         ),
         'ian/phpunit' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'da47919f739c8b4e18939ca71fc8622fea6ccd19',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
